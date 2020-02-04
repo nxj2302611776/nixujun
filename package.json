@@ -1,0 +1,25 @@
+{
+  "name": "nixujun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxj2302611776/nixujun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nxj2302611776/nixujun/issues"
+  },
+  "homepage": "https://github.com/nxj2302611776/nixujun#readme",
+  "devDependencies": {
+    "jquery": "^3.4.1"
+  },
+  "dependencies": {
+    "zepto": "^1.2.0"
+  }
+}
