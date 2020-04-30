@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/nxj2302611776/nixujun#readme",
   "devDependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "dependencies": {
     "zepto": "^1.2.0"
